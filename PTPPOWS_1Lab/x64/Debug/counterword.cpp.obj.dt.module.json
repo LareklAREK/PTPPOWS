@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PTPPOWS_1Lab\\x64\\Debug\\counterword.obj",
+            "outputs": [
+                "PTPPOWS_1Lab\\x64\\Debug\\counterword.cpp.obj.dt.module.json",
+                "PTPPOWS_1Lab\\x64\\Debug\\counterword.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

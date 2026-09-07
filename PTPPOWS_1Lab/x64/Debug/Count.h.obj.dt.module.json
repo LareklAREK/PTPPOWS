@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PTPPOWS_1Lab\\x64\\Debug\\Count.obj",
+            "outputs": [
+                "PTPPOWS_1Lab\\x64\\Debug\\Count.h.obj.dt.module.json",
+                "PTPPOWS_1Lab\\x64\\Debug\\Count.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
