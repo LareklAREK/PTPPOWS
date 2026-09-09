@@ -133,7 +133,9 @@
             "e:\\vsinsiders\\vc\\tools\\msvc\\14.51.36231\\include\\map",
             "e:\\vsinsiders\\vc\\tools\\msvc\\14.51.36231\\include\\xtree",
             "e:\\vsinsiders\\vc\\tools\\msvc\\14.51.36231\\include\\xnode_handle.h",
-            "e:\\vsinsiders\\vc\\tools\\msvc\\14.51.36231\\include\\string"
+            "e:\\vsinsiders\\vc\\tools\\msvc\\14.51.36231\\include\\string",
+            "e:\\vsinsiders\\vc\\tools\\msvc\\14.51.36231\\include\\vector",
+            "e:\\vsinsiders\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_bit_utils.hpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
