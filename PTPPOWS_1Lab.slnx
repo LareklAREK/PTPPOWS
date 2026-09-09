@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PTPPOWS_1Lab.vcxproj" />
+  <Project Path="PTPPOWS_1Lab.vcxproj" Id="8a24e190-fc8c-4e6d-a1fe-a43fd75a0dc1" />
 </Solution>
